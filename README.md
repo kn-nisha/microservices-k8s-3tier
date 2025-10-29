@@ -553,9 +553,9 @@ kubectl run curl --image=curlimages/curl -i --rm --restart=Never -- \
 Contributions welcome! Please:
 
 1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
+2. Create feature branch (`git checkout -b feature/newfeature`)
+3. Commit changes (`git commit -m 'Add newfeature'`)
+4. Push to branch (`git push origin feature/newfeature`)
 5. Open Pull Request
 
 ### Guidelines
@@ -575,8 +575,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR-USERNAME/microservices-k8s-3tier/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR-USERNAME/microservices-k8s-3tier/discussions)
+- **Issues**: [GitHub Issues](https://github.com/kn-nisha/microservices-k8s-3tier/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/kn-nisha/microservices-k8s-3tier/discussions)
 
 ---
 
@@ -602,9 +602,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **⭐ If you find this helpful, please star it!**
 
 **🔗 Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kn-nisha/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/kn-nisha)
 
 ---
 
